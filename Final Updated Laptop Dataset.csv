@@ -1,0 +1,272 @@
+Company Name,Laptop Name,RAM (GB),Storage Type,Storage Size (GB),Processor Company,Processor Details,Graphics Card (GB),GPU Details,Weight (kg),Screen Size (inches),OS,Laptop Type,Price (INR)
+Dell,New Inspiron 14 5490,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.64,14,Windows,Notebook,62990
+Dell,New Inspiron 15 5590,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.64,15.6,Windows,Notebook,63990
+Dell,New Inspiron 14 5490,8,SSD,512,Intel,10th Gen i5,2,NVIDIA GeForce MX250,1.64,14,Windows,Notebook,67990
+Dell,New Inspiron 15 5590,8,SSD,512,Intel,10th Gen i5,2,NVIDIA GeForce MX250,1.64,15.6,Windows,Notebook,68990
+Dell,New Inspiron 15 7501,8,SSD,512,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650,1.64,15.6,Windows,Notebook,91990
+Dell,New Inspiron 15 7501,8,SSD,512,Intel,10th Gen i7,4,NVIDIA GeForce GTX 1650,1.64,15.6,Windows,Notebook,115990
+Dell,New Inspiron 15 7501,16,SSD,1024,Intel,10th Gen i7,4,NVIDIA GeForce GTX 1650,1.64,15.6,Windows,Notebook,129990
+Dell,New Vostro 15 3590,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,2.17,15.6,Windows,Notebook,35990
+Dell,New Vostro 15 3590,4,SSD,256,Intel,10th Gen i3,Integrated,Intel UHD Graphics,2.17,15.6,Windows,Notebook,38490
+Dell,New Vostro 15 3590,4,SSD+HDD,256+1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,2.17,15.6,Windows,Notebook,39990
+Dell,New Vostro 15 3590,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,2.17,15.6,Windows,Notebook,49990
+Dell,New Vostro 15 3590,8,SSD+HDD,256+1024,Intel,10th Gen i5,2,AMD Radeon 610,2.17,15.6,Windows,Notebook,59490
+Dell,G3 3579,16,SSD+HDD,256+1024,Intel,8th Gen i7,4,NVIDIA GeForce GTX 1050,2.5,15.6,Windows,Notebook,66990
+HP,15s du2071tu,8,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.77,15.6,Windows,Notebook,39454
+HP,15s eq0024au,8,SSD,512,AMD,3rd Gen Ryzen 5 53500U,Integrated,AMD Radeon Vega 8,1.7,15.6,Windows,Notebook,44999
+HP,15s eq0007au,4,SSD,256,AMD,3rd Gen Ryzen 3 3200U,Integrated,AMD Radeon Vega 3,1.77,15.6,Windows,Notebook,33623
+HP,15s du2069tu,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.75,15.6,Windows,Notebook,38804
+HP,15s du2067tu,4,SSD+HDD,256+1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.77,15.6,Windows,Notebook,42458
+HP,Pavilion dk0268tx,8,SSD,512,Intel,10th Gen i5,Dedicated,NVIDIA GeForce GTX 1650,2.23,15.6,Windows,Gaming,67990
+HP,Pavilion 15-ec1052AX,8,SSD+HDD,256+1024,AMD,3rd Gen Ryzen 5 4600H,Dedicated,NVIDIA GeForce GTX 1650,1.98,15.6,Windows,Gaming,72815
+Acer,Predator Helios 500,16,SSD+HDD,512+2048,Intel,8th Gen i9,8,NVIDIA® GTX 1070,4,17.3,Windows,Gaming,179999
+Acer,Predator Helios 300,16,SSD+HDD,256+1024,Intel,10th Gen i7,8,NVIDIA® GeForce® RTX 2070,2.5,15.6,Windows,Gaming,139999
+Acer,Predator Helios 500,16,SSD+HDD,256+1024,Intel,8th Gen i7,8,NVIDIA® GTX 1070,4,17.3,Windows,Gaming,149999
+Acer,Predator Helios 300,16,SSD+HDD,256+1024,Intel,10th Gen i7,4,NVIDIA® GeForce® GTX 1650 Ti,2.5,15.6,Windows,Gaming,114999
+Acer,Predator Helios 300,16,SSD+HDD,256+1024,Intel,10th Gen i7,6,NVIDIA® GeForce® RTX 2060,2.5,15.6,Windows,Gaming,124999
+Acer,ConceptD 5 Pro,32,SSD,1024,Intel,9th Gen i7,6,NVIDIA® Quadro™ RTX3000,2.2,15.6,Windows,Notebook,175499
+Acer,Nitro 5,8,SSD+HDD,256+1024,Intel,10th Gen i7,4,NVIDIA® GeForce® GTX 1650 Ti,2.3,15.6,Windows,Gaming,89999
+Acer,Swift 5,16,SSD,512,Intel,10th Gen i7,Integrated,Intel® Iris® Plus,0.9,14,Windows,Notebook,92999
+Acer,ConceptD 5,16,SSD,1024,Intel,8th Gen i7,4,AMD Radeon™ RX Vega M GL,2.2,15.6,Windows,Notebook,124990
+Acer,ConceptD 7,32,SSD,1024,Intel,9th Gen i7,8,NVIDIA® GeForce RTX™ 2080,2.1,15.6,Windows,Notebook,260999
+Acer,Predator Triton 500,16,SSD,2048,Intel,9th Gen i7,8,NVIDIA GeForce RTX 2080,2.1,15.6,Windows,Gaming,219000
+Acer,Predator Triton 900,16,SSD,1024,Intel,9th Gen i7,8,NVIDIA® GeForce RTX™ 2080,4,17.3,Windows,Gaming,259999
+Acer,Nitro 5,8,SSD+HDD,256+1024,Intel,10th Gen i7,4,NVIDIA® GeForce® GTX 1650,2.3,15.6,Windows,Gaming,98988
+Acer,Travelmate,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,2.4,14,Windows,Business,48900
+Acer,Aspire 3,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,1.6,15.6,Windows,Notebook,44990
+Acer,Aspire 3,8,HDD,1024,Intel,10th Gen i5,2,NVIDIA® GeForce® MX330,1.9,15.6,Windows,Notebook,49999
+Acer,Aspire 7,8,SSD,512,Intel,9thGen i5,4,NVIDIA® GeForce® GTX 1650,2.2,15.6,Windows,Gaming,58990
+Acer,Swift 3,8,SSD,512,Intel,10th Gen i5,Integrated,Intel® Iris® Plus Graphics,1.2,13.5,Windows,Notebook,64999
+Acer,Aspire 5,8,SSD,512,Intel,10th Gen i5,2,NVIDIA® GeForce® MX350,2.2,14,Windows,Notebook,57990
+Acer,Swift 3,8,SSD,512,Intel,10th Gen i5,2,NVIDIA® GeForce® MX250,1.5,14,Windows,Notebook,67999
+Acer,Aspire 5,8,SSD,512,Intel,10th Gen i5,2,NVIDIA® GeForce® MX250,2.2,15.6,Windows,Notebook,58990
+Acer,Swift 3,8,SSD,512,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,1.5,14,Windows,Notebook,59990
+Acer,Swift 5,8,SSD,512,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,1,14,Windows,Notebook,69999
+Acer,Nitro 5,8,HDD,1024,Intel,9th Gen i5,4,NVIDIA® GeForce® GTX 1650,2.3,15.6,Windows,Notebook,72999
+Acer,Predator Triton 300,8,SSD,512,Intel,10th Gen i5,4,NVIDIA® GeForce® GTX 1650 Ti,2.3,15.6,Windows,Gaming,89999
+Acer,Predator Helios 300,16,SSD+HDD,256+1024,Intel,10th Gen i5,6,NVIDIA® GeForce® RTX 2060,2.5,15.6,Windows,Gaming,109999
+Acer,Nitro 5,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA® GeForce® GTX 1650 Ti,2.3,15.6,Windows,Gaming,94999
+Acer,Aspire 5,8,SSD,512,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,2.2,14,Windows,Notebook,54999
+Acer,Travelmate,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,1.6,14,Windows,Notebook,54990
+Acer,Predator Triton 300,8,SSD+HDD,256+1024,Intel,9th Gen i5,4,NVIDIA® GeForce® GTX 1650,2.3,15.6,Windows,Gaming,78490
+Acer,Swift 3,8,SSD,512,Intel,10th Gen i5,2,NVIDIA® GeForce® MX250,1.5,14,Windows,Notebook,64999
+Acer,ConceptD 5,8,SSD,512,Intel,10th Gen i5,4,AMD Radeon™ RX Vega M GL,1.5,15.6,Windows,Notebook,99990
+Acer,Swift 3,8,SSD,256,Intel,10th Gen i5,2,NVIDIA GeForce MX150,1.5,14,Windows,Notebook,54990
+Acer,ConceptD 5,16,SSD,1024,Intel,10th Gen i5,4,AMD Radeon™ RX Vega M GL,1.5,15.6,Windows,Notebook,114990
+Acer,Nitro 5,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA® GeForce® GTX 1650,2.3,15.6,Windows,Gaming,74490
+Acer,Nitro 5,8,SSD+HDD,256+1024,Intel,9th Gen i5,4,NVIDIA® GeForce® GTX 1650,2.3,15.6,Windows,Gaming,65490
+Acer,Predator Helios 300,8,SSD+HDD,128+1024,Intel,8TH Gen i5,4,NVIDIA GTX 1050Ti,2.5,15.6,Windows,Gaming,67290
+Acer,Nitro 5,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA® GeForce® GTX 1650 Ti,2.3,15.6,Windows,Gaming,79999
+Acer,Travelmate,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel® UHD Graphics,1.6,14,Windows,Notebook,76299
+Acer,Extensa 15,8,HDD,1024,Intel,10th Gen i3,Integrated,Intel® UHD Graphics,1.9,15.6,Windows,Notebook,34990
+Acer,Spin 3,8,SSD,256,Intel,10th Gen i3,Integrated,Intel® UHD Graphics,1.5,15.6,Windows,Notebook,54999
+Acer,Extensa 15,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel® UHD Graphics,1.9,,Windows,Notebook,31490
+Acer,Aspire 3,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel® UHD Graphics,1.9,15.6,Windows,Notebook,32990
+Acer,Travelmate,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel® UHD Graphics,1.6,14,Windows,Notebook,68950
+HP,14s dr1009tu,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.46,14,Windows,Notebook,58477
+HP,14q cs0006tu,4,HDD,1024,Intel,7th Gen i3,Integrated,Intel UHD Graphics,1.59,14,Windows,Notebook,32696
+HP,15q ds3001tu,8,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.85,15.6,Windows,Notebook,38926
+ASUS,Zenbook 14,16,SSD,512,Intel,10th Gen i7,Integrated,Intel Iris plus,1.17,14,Windows,Notebook,109490
+ASUS,Zenbook 13,16,SSD,1024,Intel,10th Gen i7,Integrated,Intel Iris plus,1.11,14,Windows,Notebook,109490
+HP,15s eq1042au,4,SSD,512,AMD,Ryzen 3 3250U,Integrated,AMD Radeon,1.69,15.6,Windows,Notebook,38600
+HP,15s du2002tu,8,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.75,15,Windows,Notebook,41970
+HP,Pavilion 14 dh1178tu,8,SSD,512,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.58,14,Windows,Notebook,54989
+HP,14s cf3074tu,8,SSD,256,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.47,14,Windows,Notebook,38415
+HP,250 G7,4,SSD,512,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.78,15.6,Windows,Notebook,40490
+HP,15 15s du2009tu,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.75,15.6,Windows,Notebook,37490
+ASUS,VivoBook Ultra K 14,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.4,14,Windows,Notebook,63990
+HP,Pavilion 14 ce3065tu,8,SSD+HDD,256+1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.59,14,Windows,Notebook,60490
+HP,15s gr0007,4,HDD,1024,AMD,Ryzen 3 3250U,Integrated,AMD Radeon,1.74,15.6,Windows,Notebook,36999
+Dell,Inspiron 7380,8,SSD,512,Intel,8th Gen i5,Integrated,Intel UHD Graphics,1.33,13.3,Windows,Notebook,71990
+Dell,Inspiron 5482,8,SSD,512,Intel,8th Gen i5,2,NVIDIA GeForce MX 130,2.73,14,Windows,Notebook,78214
+Dell,Inspiron 3493,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.7,14,Windows,Notebook,34939
+Dell,Inspiron 3593,8,SSD+HDD,256+1024,Intel,10th Gen i5,2,NVIDIA GeForce MX 230,2.2,15.6,Windows,Notebook,66899
+Dell,Latitude 5300,8,SSD,256,Intel,8th Gen i5,Integrated,Intel UHD Graphics,1.24,13.3,Windows,Notebook,87499
+Dell,Latitude 3400,8,SSD,512,Intel,8th Gen i5,Integrated,Intel UHD Graphics,1.67,14,Windows,Notebook,77500
+Dell,Latitude 3401,16,HDD,1024,Intel,8th Gen i7,2,NVIDIA GeForce MX 130,1.67,14,Windows,Notebook,94810
+Dell,Latitude 5591,8,SSD+HDD,256+1024,Intel,8th Gen i5,2,NVIDIA GeForce MX 130,1.93,15.6,Windows,Notebook,99000
+Dell,Latitude 5500,16,SSD,512,Intel,8th Gen i5,Integrated,Intel UHD Graphics,1.82,15.6,Windows,Notebook,102000
+Dell,Inspiron 7570,16,SSD,512,Intel,8th Gen i7,4,NVIDIA GeForce MX 130,1.99,15.6,Windows,Notebook,124999
+Dell,G3 3500,8,SSD,512,Intel,10th Gen i7,4,NVIDIA GeForce GTX 1650 Ti,2.3,15.6,Windows,Gaming,90690
+Dell,G3 3500,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650 Ti,2.3,15.6,Windows,Gaming,78929
+Dell,G3 3500,8,SSD,512,Intel,9th Gen i7,4,NVIDIA GeForce GTX 1650,2.5,15.6,Windows,Gaming,88990
+Dell,G3 3590,8,SSD,512,Intel,9th Gen i7,6,NVIDIA GeForce GTX 1650 Ti,2.5,15.6,Windows,Gaming,109990
+Dell,G7 7590,16,SSD,512,Intel,9th Gen i7,6,NVIDIA 1660,2.5,15.6,Windows,Gaming,145000
+Dell,G3 3590,8,SSD,512,Intel,9th Gen i7,4,NVIDIA GeForce GTX 1650,2.5,15.6,Windows,Gaming,88990
+Dell,Inspiron 7386,16,SSD,512,Intel,8th Gen i7,Integrated,Intel UHD Graphics,1.4,13.3,Windows,Convertible,110000
+Dell,XPS 9570,8,SSD,256,Intel,8th Gen i7,Integrated,Intel UHD Graphics,2,15.6,Windows,Ultrabook,132500
+Dell,XPS 9570,16,SSD,512,Intel,8th Gen i7,4,NVIDIA GeForce GTX 1050 Ti,2.25,15.6,Windows,Ultrabook,139787
+Dell,XPS 9570,32,SSD,1024,Intel,8th Gen i9,4,NVIDIA GeForce GTX 1050 Ti,2,15.6,Windows,Ultrabook,248140
+Dell,XPS 7390,8,SSD,512,Intel,10th Gen i7,Integrated,Intel UHD Graphics,1.29,13.3,Windows,Ultrabook,151156
+Dell,XPS 7390,16,SSD,512,Intel,10th Gen i7,Integrated,Intel UHD Graphics,1.29,13.3,Windows,Ultrabook,170876
+Dell,XPS 7390,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.29,13.3,Windows,Ultrabook,116800
+Dell,Inspiron 5491,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.86,14,Windows,Convertible,81190
+Dell,Inspiron 14 5482,8,SSD,512,Intel,8th Gen i5,2,NVIDIA MX130,1.7,14,Windows,Convertible,84900
+Dell,XPS 9370,16,SSD,512,Intel,8th Gen i7,Integrated,Intel UHD Graphics,0.39,13.3,Windows,Ultrabook,133990
+Dell,Inspiron 7373,16,SSD,512,Intel,8th Gen i7,Integrated,Intel UHD Graphics,1.63,13.3,Windows,Convertible,108990
+Dell,Inspiron 14 5482,8,SSD,256,Intel,8th Gen i7,Integrated,Intel UHD Graphics,1.7,14,Windows,Convertible,88400
+Dell,Inspiron 13 7391,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.4,13.3,Windows,Convertible,94990
+MSI,GS73VR 7RG,16,SSD + HDD,256+2048,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,2.43,17.3,Windows,Gaming,212000
+MSI,GL72M 7RDX,8,SSD + HDD,128+1024,Intel,7th Gen i5,2,NVIDIA GeForce GTX 1050,2.7,17.3,Windows,Gaming,95200
+MSI,GP62M 7REX,16,SSD + HDD,256+1024,Intel,7th Gen i7,4,NVIDIA GeForce GTX 1050 Ti,2.2,15.6,Windows,Gaming,113000
+MSI,GS63VR 7RG,16,SSD + HDD,256+2048,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,1.8,15.6,Windows,Gaming,195000
+MSI,GE72MVR 7RG,16,SSD + HDD,256+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,2.9,17.3,Windows,Gaming,176500
+MSI,GE73VR 7RE,16,SSD + HDD,256+1024,Intel,7th Gen i7,6,NVIDIA GeForce GTX 1060,2.8,17.3,Windows,Gaming,164499
+MSI,GE63VR 7RE,16,SSD + HDD,256+1024,Intel,7th Gen i7,6,NVIDIA GeForce GTX 1060,2.4,15.6,Windows,Gaming,156499
+MSI,GT80S 6QF-074US,32,SSD + HDD,512+1024,Intel,6th Gen i7,8,NVIDIA GTX 980 SLI,4.4,18.4,Windows,Gaming,243499
+MSI,GT73EVR 7RE,16,SSD + HDD,512+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,4.14,17.3,Windows,Gaming,217400
+MSI,GE63VR 7RF,16,SSD + HDD,256+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,2.8,15.6,Windows,Gaming,182500
+MSI,GL72M 7REX,8,SSD + HDD,256+1024,Intel,7th Gen i7,4,NVIDIA GeForce GTX 1050 Ti,2.7,17.3,Windows,Gaming,104000
+MSI,GP72MVR 7RFX,8,SSD + HDD,128+1024,Intel,7th Gen i7,3,NVIDIA GeForce GTX 1060,2.7,17.3,Windows,Gaming,122500
+MSI,Leopard GP72M,8,SSD,256,Intel,7th Gen i7,4,NVIDIA GeForce GTX 1050 Ti,2.7,17.3,Windows,Gaming,117300
+MSI,GE73VR 7RF,16,SSD + HDD,256+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,2.8,17.3,Windows,Gaming,195600
+MSI,GV62 7RD-1686NL,8,SSD,256,Intel,7th Gen i5,2,NVIDIA GeForce GTX 1050,2.2,15.6,Windows,Gaming,89499
+MSI,GT73VR Titan,16,SSD + HDD,512+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,4.14,17.3,Windows,Gaming,237499
+MSI,GT80S 6QE,16,SSD + HDD,128+1024,Intel,6th Gen i7,8,NVIDIA GeForce GTX 980M,4.5,17.3,Windows,Gaming,204000
+MSI,GT62VR 7RE,16,SSD + HDD,256+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,2.94,15.6,Windows,Gaming,197399
+MSI,GL62M 7REX,8,SSD + HDD,128+1024,Intel,7th Gen i7,2,NVIDIA GeForce GTX 1050 Ti,2.2,15.6,Windows,Gaming,103499
+MSI,GP72VR Leopard,8,SSD + HDD,128+1024,Intel,7th Gen i7,3,NVIDIA GeForce GTX 1060,2.7,17.3,Windows,Gaming,129999
+MSI,GP62 7RDX,16,SSD + HDD,256+1024,Intel,7th Gen i7,4,NVIDIA GeForce GTX 1050,2.4,15.6,Windows,Gaming,112499
+MSI,GV62M 7RD,8,SSD,256,Intel,7th Gen i5,4,NVIDIA GeForce GTX 1050,2.2,15.6,Windows,Gaming,86000
+MSI,GL72M 7REX,8,SSD + HDD,128+1024,Intel,7th Gen i7,4,NVIDIA GeForce GTX 1050 Ti,2.7,17.3,Windows,Gaming,115499
+MSI,GS63VR 7RF,16,SSD + HDD,256+1024,Intel,7th Gen i7,6,NVIDIA GeForce GTX 1060,1.8,15.6,Windows,Gaming,175000
+MSI,GS43VR 7RE,16,SSD + HDD,256+1024,Intel,7th Gen i7,6,NVIDIA GeForce GTX 1060,1.6,14,Windows,Gaming,164500
+MSI,GL62M,8,SSD + HDD,128+1024,Intel,7th Gen i5,2,NVIDIA GeForce GTX 1050,2.2,15.6,Windows,Gaming,94799
+MSI,GE72MVR 7RG,16,SSD + HDD,512+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,2.9,17.3,Windows,Gaming,210000
+MSI,GL62M 7RD,8,SSD,256,Intel,7th Gen i5,2,NVIDIA GeForce GTX 1050,2.4,15.6,Windows,Gaming,104300
+MSI,GS73VR Stealth,16,SSD + HDD,512+2048,Intel,6th Gen i7,6,NVIDIA GeForce GTX 1060,2.43,17.3,Windows,Gaming,230499
+MSI,GE72VR 6RF,16,SSD + HDD,256+1024,Intel,7th Gen i7,6,NVIDIA GeForce GTX 1050 Ti,2.7,17.3,Windows,Gaming,139000
+MSI,GL62M 7RD,8,SSD + HDD,128+1024,Intel,7th Gen i5,2,NVIDIA GeForce GTX 1050,2.2,15.6,Windows,Gaming,97499
+MSI,GP62M Leopard,8,SSD + HDD,128+1024,Intel,7th Gen i7,2,NVIDIA GeForce GTX 1050,2.2,15.6,Windows,Gaming,104000
+MSI,GL72M 7RDX,8,SSD + HDD,128+1024,Intel,7th Gen i7,2,NVIDIA GeForce GTX 1050,2.7,17.3,Windows,Gaming,104000
+MSI,GT72S Dominator,16,SSD + HDD,256+1024,Intel,6th Gen i7,4,NVIDIA GeForce GTX 980M,3.78,17.3,Windows,Gaming,132499
+MSI,GT62VR 6RD,16,SSD + HDD,256+1024,Intel,6th Gen i7,6,NVIDIA GeForce GTX 1060,2.94,15.6,Windows,Gaming,159000
+MSI,GS63VR 6RF,16,SSD + HDD,256+1024,Intel,6th Gen i7,6,NVIDIA GeForce GTX 1060,1.8,15.6,Windows,Gaming,167499
+MSI,GT72VR Dominator,16,SSD + HDD,256+1024,Intel,7th Gen i7,8,NVIDIA GeForce GTX 1070,3.78,17.3,Windows,Gaming,217499
+MSI,GS70 Stealth,8,SSD,256,Intel,6th Gen i7,2,NVIDIA GeForce GTX 965M,2.6,17.3,Windows,Gaming,130499
+MSI,GE72 Apache,8,SSD + HDD,128+1024,Intel,6th Gen i7,2,NVIDIA GeForce GTX 960M,2.9,17.3,Windows,Gaming,130491
+MSI,GT72S Dominator,16,SSD + HDD,256+1024,Intel,6th Gen i7,8,NVIDIA GeForce GTX 980M,3.78,17.3,Windows,Gaming,200000
+MSI,GP62M 7RDX,8,SSD + HDD,128+1024,Intel,7th Gen i7,2,NVIDIA GeForce GTX 1050,2.4,15.6,Windows,Gaming,99499
+MSI,GP72M 7REX,16,SSD + HDD,256+1024,Intel,7th Gen i7,4,NVIDIA GeForce GTX 1050 Ti,2.7,17.3,Windows,Gaming,124499
+MSI,GS40 Phantom,16,SSD + HDD,256+1024,Intel,6th Gen i7,3,NVIDIA GeForce GTX 970M,1.7,14,Windows,Gaming,149999
+MSI,GP62MVR 6RF,8,SSD + HDD,128+1024,Intel,6th Gen i7,3,NVIDIA GeForce GTX 1060,2.2,15.6,Windows,Gaming,120000
+MSI,GL62M 7RDX,8,SSD + HDD,128+1024,Intel,7th Gen i7,2,NVIDIA GeForce GTX 1050,2.2,15.6,Windows,Gaming,99999
+MSI,GL62 6QF,8,SSD + HDD,128+1024,Intel,6th Gen i7,2,NVIDIA GeForce GTX 960M,2.3,15.6,Windows,Gaming,101499
+MSI,GE62 Apache,8,SSD + HDD,128+1024,Intel,6th Gen i7,3,NVIDIA GeForce GTX 960M,2.4,15.6,Windows,Gaming,104499
+Lenovo,V15,4,HDD,1024,AMD,Ryzen 3 3250U,Integrated,AMD Radeon Graphics,1.85,15.6,Windows,Notebook,30790
+Lenovo,IdeaPad Slim 3,4,HDD,1024,AMD,Ryzen 3 3250U,Integrated,AMD Radeon Graphics,1.85,15.6,Windows,Notebook,31490
+Lenovo,Thinkpad T14,8,SSD,256,AMD,Ryzen 5 Pro 4650U,Integrated,AMD Radeon Graphics,1.5,14,DOS,Notebook,90898
+Lenovo,Thinkpad E14,8,SSD,256,AMD,Ryzen 7 4700U,Integrated,AMD Radeon Graphics,1.8,14,DOS,Notebook,59470
+Lenovo,IdeaPad C340,4,SSD,512,AMD,R7-3700U,Integrated,AMD Radeon RX Vega 10,1.65,14,Windows,Notebook,65990
+Lenovo,IdeaPad Slim 3i,8,SSD,256,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.6,14,Windows,Notebook,36990
+Lenovo,IdeaPad S340,8,SSD,256,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.6,14,Windows,Notebook,41990
+Lenovo,ThinkBook 14 IML,4,HDD,512,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.6,14,DOS,Notebook,43631
+Lenovo,ThinkBook 14 IIL,4,HDD,512,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.5,14,DOS,Notebook,45890
+Lenovo,ThinkBook 14,4,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,48720
+Lenovo,ThinkPad E15,4,HDD,512,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.9,15.6,DOS,Notebook,50590
+Lenovo,ThinkPad L13,4,SSD,128,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.4,13.3,DOS,Notebook,51428
+Lenovo,ThinkPad L14,8,SSD,256,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.7,14,DOS,Notebook,60015
+Lenovo,ThinkBook 15 IIL,4,HDD,512,Intel,10th Gen i3,2,AMD Radeon 630,2.7,15.6,DOS,Notebook,53903
+Lenovo,ThinkPad E14,4,HDD,512,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.8,14,DOS,Notebook,51897
+Lenovo,Legion Y7000 SE,8,SSD+HDD,256+1024,Intel,9th Gen i7,4,NVIDIA GeForce GTX 1650,2.4,15.6,Windows,Gaming,80990
+Lenovo,Legion Y7000 SE,8,SSD+HDD,512+1024,Intel,9th Gen i7,4,NVIDIA GeForce GTX 1650,2.4,15.6,Windows,Gaming,84990
+Lenovo,Legion 5i,8,SSD+HDD,256+1024,Intel,10th Gen i7,4,NVIDIA GeForce GTX 1650,2.45,15.6,Windows,Gaming,90690
+Lenovo,Yoga Slim 7i,8,SSD,512,Intel,10th Gen i7,2,NVIDIA GeForce MX350,1.5,14,Windows,Notebook,91490
+Lenovo,Legion 5i,8,SSD+HDD,256+1024,Intel,10th Gen i7,4,NVIDIA GeForce GTX 1650 Ti,2.45,15.6,Windows,Gaming,99990
+Lenovo,ThinkPad L13,16,SSD,512,Intel,10th Gen i7,Integrated,Intel UHD Graphics,1.4,13.3,Windows,Notebook,103310
+Lenovo,ThinkPad X390,16,SSD,512,Intel,10th Gen i7,Integrated,Intel UHD Graphics,1.3,13.3,Windows,Notebook,129990
+Lenovo,ThinkPad T490,8,SSD,512,Intel,10th Gen i7,2,NVIDIA GeForce MX250,1.7,14,Windows,Notebook,131990
+Lenovo,ThinkPad X390,8,SSD,512,Intel,10th Gen i7,Integrated,Intel UHD Graphics,1.3,13.3,Windows,Notebook,132190
+Lenovo,ThinkPad T490,16,SSD,512,Intel,10th Gen i7,2,NVIDIA GeForce MX250,1.7,14,Windows,Notebook,137790
+Lenovo,Yoga S 940,16,SSD,1024,Intel,10th Gen i7,Integrated,Integrated,1.2,14,Windows,Notebook,168490
+Lenovo,ThinkPad P 53,16,SSD,1024,Intel,10th Gen i7,4,NVIDIA Quadro T2000,2.5,15.6,Windows,Notebook,169190
+Lenovo,ThinkPad X1,16,SSD,512,Intel,10th Gen i7,Integrated,Integrated,1.2,14,Windows,Notebook,183590
+Lenovo,Legion 7i,16,SSD,512,Intel,10th Gen i7,8,NVIDIA® GeForce RTX™ 2070,2.1,15.6,Windows,Gaming,194638
+Lenovo,ThinkPad X1 Yoga,16,SSD,512,Intel,10th Gen i7,Integrated,Integrated,1.4,14,Windows,Notebook,207340
+Lenovo,Legion 7i,16,SSD,1024,Intel,10th Gen i7,8,NVIDIA GeForce RTX 2080,2.1,15.6,Windows,Gaming,246690
+HP,15 15s du2002tu,8,HDD,1024,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.75,15,Windows,Notebook,42990
+HP,15s eq0024au,8,SDD,512,AMD,Ryzen 5 3500U,Integrated,Readon Vega 8,1.7,15.6,Windows,Notebook,45990
+HP,Pavilion 15 ec1024AX,8,HDD,1024,AMD,Ryzen 5 4600H,Dedicated,NVIDIA GTX 1650,1.98,15.6,Windows,Gaming,65990
+HP,Pavilion 15 ec1052AX,8,SSD+HDD,256+1024,AMD,Ryzen 5 4600H,Dedicated,NVIDIA GTX 1650,1.98,15.6,Windows,Gaming,71990
+HP,Pavilion 15 dk0264TX,8,HDD,1024,Intel,9th Gen i5,Dedicated,NVIDIA GTX 1650,2.23,15.6,Windows,Gaming,64490
+HP,Omen 15 en0001AX,8,SSD,512,AMD,Ryzen 5 4600H,2,NVIDIA GTX 1650,2.36,15.6,Windows,Gaming,83013
+HP,Pavilion 15 ec0028AX,8,SSD+HDD,256+1024,AMD,Ryzen 7 3750U,Dedicated,NVIDIA GTX 1650,1.98,15.6,Windows,Gaming,82999
+HP,15s db1061au,4,HDD,1024,AMD,Ryzen 5 3500U,Integrated,Readon Vega 8,1.75,15.6,Windows,Notebook,40990
+HP,PC 240 G7,8,SSD,256,Intel,10th Gen i3,Integrated,Intel UHD Graphics,1.25,14,Windows,Notebook,45990
+HP,Envy x360,8,SSD,256,AMD,Ryzen 5 4500U,Integrated,Readon Vega 8,1.3,13.3,Windows,Notebook,78536
+HP,14s er0003TU,8,SSD+HDD,256+1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.51,14,Windows,Notebook,65990
+HP,15 di0000TX,4,HDD,1024,Intel,8th Gen i3,Dedicated,NVIDIA GeForce MX130,1.77,15.6,Windows,Notebook,42999
+HP,Envy 13 ba0011TX,8,SSD,512,Intel,10th Gen i5,Dedicated,NVIDIA GeForce MX 350,1.3,13.3,Windows,Notebook,89990
+ASUS,VivoBook 14,4,HDD,1024,AMD,Athlon,Integrated,Radeon R2,1.6,14,Windows,Notebook,26374
+ASUS,VivoBook S14,4,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.35,14,Windows,Notebook,66161
+ASUS,VivoBook 15,8,SSD+HDD,256+1024,Intel,10th Gen i5,2,NVIDIA GeForce MX330,1.75,15.6,Windows,Notebook,66896
+ASUS,TUF F15,8,SSD+HDD,256+1024,Intel,10th Gen i7,Dedicated,NVIDIA GTX 1650,2.3,15.6,Windows,Gaming,83990
+ASUS,TUF A15,4,SSD,512,AMD,Ryzen 5 4600U,Dedicated,NVIDIA GTX 1650,2.3,15.6,Windows,Gaming,67990
+ASUS,ROG Zephyrus M15,16,SSD,1024,Intel,10th Gen i7,Dedicated,NVIDIA GTX 2060,1.9,15.6,Windows,Gaming,154990
+ASUS,ROG Zephyrus S17,16,SSD,1024,Intel,10th Gen i7,Dedicated,NVIDIA GTX 2060,2.6,17.3,Windows,Gaming,179890
+ASUS,ZenBook UX430UA,8,SSD,256,Intel,8th Gen i5,Integrated,Intel UHD Graphics,1.3,14,Windows,Notebook,56890
+ASUS,ZenBook 14,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.17,14,Windows,Notebook,80650
+ASUS,ROG Zephyrus G14,8,SSD,512,AMD,Ryzen 5 4600HS,Integrated,NVIDIA GTX 2060,1.7,14,Windows,Gaming,103082
+ASUS,ROG Strix G17,16,SSD,1024,Intel,10th Gen i7,Dedicated,NVIDIA GTX 1660,3,17.3,Windows,Gaming,129990
+ASUS,ZenBook 15 UX533FD,16,SSD,1024,Intel,10th Gen i7,Dedicated,NVIDIA GTX 1050 Max,2,15.6,Windows,Gaming,305764
+ASUS,ExpertBook P1,8,HDD,1024,Intel,ROG Zephyrus S,Integrated,Intel UHD Graphics,1.6,14,DOS,Notebook,42999
+ASUS,ROG Strix G15,8,SSD,512,Intel,10th Gen i5,Dedicated,NVIDIA GTX 1650,2.7,15.6,Windows,Gaming,85470
+ASUS,G5512LV-AZ161T,16,SSD,1024,Intel,10th Gen i7,Dedicated,NVIDIA GTX 2060,2.75,15.6,Windows,Gaming,134990
+ASUS,ROG Zephyrus GX501GI-EI004T,24,SSD,1024,Intel,8th Gen i3,Dedicated,NVIDIA GTX 1080,2.26,15.6,Windows,Gaming,218000
+ASUS,ROG Zephyrus S,32,SSD,1024,Intel,9th Gen i7,Dedicated,NVIDIA GTX 2080 Max,2.6,17.3,Windows,Gaming,289990
+ASUS,S433FL-EB197TS,8,SSD,512,Intel,10th Gen i7,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,79680
+ASUS,VivoBook Flip 14,8,SSD,512,AMD,Ryzen 7 4700U,Integrated,Radeon RX Vega 7,1.5,14,Windows,Notebook,86990
+ASUS,ZenBook Duo,16,SSD,1024,Intel,10th Gen i7,Dedicated,NVIDIA GeForce MX250,1.6,14,Windows,Notebook,126909
+ASUS,ROG Zephyrus M,16,SSD,1024,Intel,8th Gen i7,Dedicated,NVIDIA GTX 1070,2.4,15.6,Windows,Gaming,128794
+ASUS,VivoBook X507UF,8,HDD,1024,Intel,8th Gen i5,Dedicated,NVIDIA GeForce MX130,1.68,15.6,Windows,Notebook,46990
+ASUS,TUF Flagship FX705GM,16,SSD,512,Intel,8th Gen i7,Dedicated,NVIDIA GTX 1060,4.26,17.3,Windows,Gaming,178242
+ASUS,X512FL-EJ704T,8,SSD,512,Intel,7th Gen i7,Integrated,NVIDIA GeForce MX250,3,15.6,Windows,Notebook,69990
+ASUS,ZenBook 3,8,SSD,512,Intel,7th Gen i7,Integrated,Intel UHD Graphics,0.91,12.5,Windows,Notebook,89790
+Razer,Blade 15,16,SSD,512,Intel,10th Gen i7,Dedicated,NVIDIA GTX 2060,2.13,15.6,Windows,Gaming,223999
+Razer,Blade Pro 17,16,SSD,512,Intel,9th Gen i7,Dedicated,NVIDIA GTX 2080 Max,2.75,17.3,Windows,Gaming,319999
+Razer,Blade Stealth 13,16,SSD,512,Intel,10th Gen i7,Dedicated,NVIDIA GTX 1650 Max,1.42,13.3,Windows,Gaming,206440
+Razer,Blade Stealth 13.3,16,SSD,256,Intel,7th Gen i7,Integrated,Intel UHD Graphics,1.33,13.3,Windows,Notebook,279079
+HP,Spectre x360-13,8,SSD,512,Intel,10th Gen i5,Integrated,Intel Iris plus,1.75,13.3,Windows,Notebook,129999
+Lenovo,IdeaPad Slim 3i,4,HDD,1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.6,15.6,Windows,Notebook,43790
+Lenovo,ThinkBook 14,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,51890
+Lenovo,V14,4,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.6,14,Windows,Notebook,52620
+Lenovo,IdeaPad S340,4,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.8,14,Windows,Notebook,57290
+Lenovo,IdeaPad S340,4,SSD+HDD,256+1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.8,14,Windows,Notebook,57790
+Lenovo,IdeaPad S340,8,SSD+HDD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.8,14,Windows,Notebook,57990
+Lenovo,IdeaPad S340,8,SSD+HDD,256+1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.8,14,Windows,Notebook,59590
+Lenovo,L340,8,`SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650,3.3,15.6,Windows,Gaming,59890
+Lenovo,IdeaPad Slim 5i,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.4,14,Windows,Notebook,59990
+Lenovo,ThinkPad E14,8,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.8,14,DOS,Notebook,59990
+Lenovo,THinkBook 14,8,HDD,1024,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,64890
+Lenovo,THinkBook 14,8,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,65890
+Lenovo,Legion Y540,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650,2.3,15.6,Windows,Gaming,67190
+Lenovo,ThinkPad E14,8,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,69990
+Lenovo,IdeaPad Gaming 3i,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650 Ti,2.2,15.6,Windows,Gaming,74290
+Lenovo,ThinkPad E14,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.5,14,Windows,Notebook,74890
+Lenovo,Legion 5i,8,SSD,512,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650,2.5,15.6,Windows,Gaming,76690
+Lenovo,ThinkPad L14,8,HDD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.6,14,Windows,Notebook,77090
+Lenovo,Yoga Slim 7i,8,SSD,512,Intel,10th Gen i5,2,NVIDIA GeForce MX350,1.5,14,Windows,Notebook,78490
+Lenovo,Legion 5i,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650,2.5,15.6,Windows,Gaming,79990
+Lenovo,ThinkPad L14,8,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.6,14,Windows,Notebook,82690
+Lenovo,Legion 5i,8,SSD+HDD,256+1024,Intel,10th Gen i5,4,NVIDIA GeForce GTX 1650 Ti,2.5,15.6,Windows,Gaming,84990
+Lenovo,ThinkPad L14,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.6,14,Windows,Notebook,87590
+Lenovo,ThinkPad L13,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.4,13.3,Windows,Notebook,88730
+Lenovo,Legion 5i,8,HDD,1024,Intel,10th Gen i5,4,NVIDIA® GeForce® GTX 1650 Ti,2.5,15.6,Windows,Gaming,90216
+Lenovo,ThinkPad T14,8,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.45,14,Windows,Notebook,104377
+Lenovo,ThinkPad L13 Yoga,16,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.4,13.3,Windows,Notebook,106960
+Lenovo,ThinkPad X390,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.3,13.3,Windows,Notebook,113390
+Lenovo,ThinkPad T490,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.7,14,Windows,Notebook,115390
+Lenovo,ThinkPad P15v,8,SSD,256,Intel,10th Gen i5,4,NVIDIA Quadro P620,1.4,15.6,DOS,Notebook,116280
+Lenovo,ThinkPad P14s,8,SSD,256,Intel,10th Gen i5,2,NVIDIA® Quadro® P520,1.5,14,Windows,Notebook,116620
+Lenovo,ThinkPad T490,16,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.7,14,Windows,Notebook,118890
+Lenovo,ThinkPad X1,8,SSD,256,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.2,14,Windows,Notebook,141550
+Lenovo,NoteBook TP X1 Yoga,8,SSD,512,Intel,10th Gen i5,Integrated,Intel UHD Graphics,1.2,14,Windows,Notebook,159990
+Apple,MacBook Air,8,SSD,256,Intel,10th Gen i3,Integrated,Intel Iris Plus Graphics,1.3,13.3,macOS,Ultrabook,92990
+Apple,MacBook Air,8,SSD,512,Intel,10th Gen i5,Integrated,Intel Iris Plus Graphics,1.3,13.3,macOS,Ultrabook,122990
+Apple,MacBook Pro,16,SSD,1024,Intel,10th Gen i5,Integrated,Intel Iris Plus 645 Graphics,1.4,13.3,macOS,Ultrabook,194900
+Apple,MacBook Pro,16,SSD,512,Intel,10th Gen i5,Integrated,Intel Iris Plus 645 Graphics,1.4,13.3,macOS,Ultrabook,174900
+Apple,MacBook Pro,16,SSD,1024,Intel,9th Gen i9,4,AMD Radeon Pro 5500M,2,16,macOS,Ultrabook,234900
+Apple,MacBook Pro,16,SSD,512,Intel,9th Gen i7,4,AMD Radeon Pro 5300M,2,16,macOS,Ultrabook,195900
+Apple,MacBook Pro,8,SSD,128,Intel,8th Gen i5,Integrated,Intel Iris Plus 645 Graphics,1.4,13.3,macOS,Ultrabook,109995
+Apple,MacBook Pro,8,SSD,512,Intel,8th Gen i5,Integrated,Intel Iris Plus 655 Graphics,1.4,13.3,macOS,Ultrabook,148495
+Apple,MacBook Pro,8,SSD,256,Intel,8th Gen i5,Integrated,Intel Iris Plus 640 Graphics,1.4,13.3,macOS,Ultrabook,139495
