@@ -1,5 +1,6 @@
 # Laptop Price Estimation based on Data Analysis Using Python
 Using techniques of data analysis, this project tries to estimate the price of a Laptop based on input parameters such as Storage Size, RAM, Weight, Company, etc. 
+
 Features of this project:
 1) Authentic up-to-date dataset of about 300 laptops created and used (Final Updated Laptop Dataset.csv)
 2) Data fetched from official company websites and popular E-Commerce websites like amazon and flipkart to provide best discounted price info
